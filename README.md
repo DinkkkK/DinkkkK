@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Michael Manabat 👋
 
-<!--
-**DinkkkK/DinkkkK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year BCIS student at Auckland University of Technology.
 
-Here are some ideas to get you started:
+I major in Software Development and minoring in Artificial Intelligence & Cybersecurity/Networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on 
+
+StudyFlow - A study-assistant app I'm growing in public, version by version, learning each layer of the stack as I progress.
+Currently working on Version 1.0 
+| Version | Focus | Status |
+|---------|-------|--------|
+| v1 | Java console app — OOP, Git, JUnit | 🔨 In progress |
+
+ 🔨 Tools I use 
+ 
+ Java, Git
+
+ 🥅 Goal
+ 
+ I'm targeting software engineering internships by my 2nd year, to build real-world experience alongside my degree.
+ 
+ 📫 How to reach me: 
+ 
+ LinkedIn: www.linkedin.com/in/michael-manabat-b078b940a
+
+ 
+
